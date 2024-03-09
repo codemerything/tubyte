@@ -7,3 +7,7 @@
     text-wrap: balance;
   }
 }
+
+input {
+  @apply w-[400px] py-2 px-2 border border-gray-200;
+}
